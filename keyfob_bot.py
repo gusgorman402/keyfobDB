@@ -58,7 +58,7 @@ def get_fcc_info(year, make, model):
     if len(fcc_data) < 2:
         fcc_data = "Record not found"
 
-    print(fcc_data)
+    #print(fcc_data)
     return fcc_data
 
 
