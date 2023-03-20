@@ -7,6 +7,8 @@ Telegram bot to access the DB and determine car year, make, model from license p
 
 FCC ID and car models were scraped from https://oemcarkeymall.com/
 
+Some car models will have multiple FCC ID's because there are different styles of fobs for a particular car, such as fob with key, fob without a key, 4 button fob, 5 button fob (remote start), etc. 
+
 Exploits were referenced from RollBack research and RTL-SDR blog:
 
 https://medium.com/codex/rollback-important-details-about-the-new-keyfob-vulnerability-86ea5727f3d3
